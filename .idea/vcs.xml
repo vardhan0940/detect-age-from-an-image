@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/agedetection-image-processing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/agedetection-image-processing/agedetection-image-processing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/agedetection-image-processing/project/agedetection-image-processing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/detecting-age-from-an-image" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/face_detector/detectage" vcs="Git" />
+  </component>
+</project>
